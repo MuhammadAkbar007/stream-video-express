@@ -1,0 +1,25 @@
+{
+  "name": "stream-express",
+  "version": "1.0.0",
+  "description": "Rendering video in stream format. Written in express js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "keywords": [
+    "stream",
+    "express",
+    "node",
+    "js"
+  ],
+  "type": "module",
+  "author": "Akbarjon Ahmadjonov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
